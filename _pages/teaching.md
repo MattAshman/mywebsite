@@ -6,7 +6,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Below is a list of courses for which I was a teaching assistant.
+Below is a list of courses for which I supervised.
 
 **University of Cambridge (2015-Present)**
 * Michaelmas 2021: [Statistical Signal Processing](http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iia-3f3-statistical-signal-processing-2017-18) (3F3) taught by [Simon Godsill](http://www.eng.cam.ac.uk/profiles/sjg30)
