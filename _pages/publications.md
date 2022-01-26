@@ -1,18 +1,25 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
 My research interest spans the field of probabilistic machine learning, and are motivated by the need for the effective and efficient deployment of probabilistic machine learning techniques to improve decision making and prediction in the presence of uncertainty.
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+### Publications
 
-{% include base_path %}
+1. Andrei Margeloiu\*, **Matthew Ashman**\*, Umang Bhatt\*, Yanzhi Chen, Mateja Jamnik, Adrian Weller      
+<span style="color:navy">Do Concept Bottleneck Models Learn As Intended?</span>      
+*ICLR Workshop on Responsible AI, 2021.*      
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2105.04289)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+1. Metod Jazbec, **Matthew Ashman**, Vincent Fortuin, Micheal Pearce, Stephen Mandt, Gunnar Rätsch
+<span style="color:navy">Scalable Gaussian Process Variational Autoencoders</span>      
+*International Conference on Artificial Intelligence and Statistics (AISTATS), 2021.*      
+[<button type="button" class="btn btn-info">Paper</button>](http://proceedings.mlr.press/v130/jazbec21a/jazbec21a.pdf)
+
+1. **Matthew Ashman**, Jonathan So, Will Tebbutt, Vincent Fortuin, Michael Pearce, Richard E. Turner
+<span style="color:navy">Sparse Gaussian Process Variational Autoencoders</span>      
+*arxiv, 2021*      
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2010.10177.pdf)
