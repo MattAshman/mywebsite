@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-My research interest spans the field of probabilistic machine learning, and are motivated by the need for the effective and efficient deployment of probabilistic machine learning techniques to improve decision making and prediction in the presence of uncertainty.
+My research interests are motivated by the need for the effective and efficient deployment of probabilistic machine learning techniques to improve decision making and prediction in the presence of uncertainty.
 
 ### Publications
 
